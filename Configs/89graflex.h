@@ -1,4 +1,4 @@
-	#ifdef CONFIG_TOP
+#ifdef CONFIG_TOP
 #include "proffieboard_config.h"
 #define NUM_BLADES 2
 #define NUM_BUTTONS 2
